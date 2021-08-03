@@ -1,2 +1,2 @@
 # Blockchain
-This is a part of my training, creating each day a new smart contract 
+This is part of my training and my passion, creating a new smart contract each day 
